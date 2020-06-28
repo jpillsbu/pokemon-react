@@ -1,4 +1,5 @@
 import React from "react";
+import "./PokemonsContainer.css";
 import { useQuery } from "react-apollo";
 import { Pokemon } from "./Pokemon";
 import { GET_POKEMONS } from "./get-pokemons";
